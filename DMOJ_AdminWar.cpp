@@ -37,5 +37,5 @@ void AdminWar() {
 	if (Xpoints == Epoints) {												// if points are equal its a tie
 		cout << Xpoints << " " << Epoints << endl;							// output players points
 		cout << "Tie"					  << endl;							// output winner
-	}
+	} 
 }
