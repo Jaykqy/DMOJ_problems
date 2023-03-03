@@ -35,5 +35,4 @@ void Spooky() {
 		if (currentSpook >= spook) tooSpook++;										// if the spook lvl is greater or equal to tolerance it is too spooky
 	}
 	cout << house - tooSpook << endl;
-
 }
